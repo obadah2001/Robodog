@@ -38,9 +38,6 @@ The project integrates design, physics, coding, and the use of Arduino, fosterin
 
 The experiment focused on utilizing Arduino software, building circuits, and applying engineering skills to design a functional robot dog. Challenges were encountered in the design phase, leading to multiple failures. Successful design involved using a laser wood cutter provided by the University. The presented dog design achieved the desired weight, structure, and aesthetic appeal.
 
-- Figure 1: [Image of the Robodog](link-to-image1.png)
-- Figure 2: [Arduino Code](link-to-image2.png)
-
 ## 5. Conclusion
 
 The student successfully achieved the project goal of making the robodog walk six feet in a straight line, securing 3rd place in the competition. The durable and efficient spider-like model with only two motors showcased effective design. A minor discrepancy could have been addressed by decreasing the delay time for leg movement.
